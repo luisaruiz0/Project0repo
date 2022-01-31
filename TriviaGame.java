@@ -38,8 +38,9 @@ public class TriviaGame
         questions[8] = new Question("What day did Mexico claim independence from Spain?\n",
          "July 4", "May 5", "May 6", "Septemeber 16",4 );
         questions[9] = new Question("What is the biggest Country in the world?\n",
-         "United States", "Russia", "China", "Canada",2 );
+         "United States", "africa", "China", "new jersey",2 );
         int[] answers ={3, 2, 2, 3, 4, 1, 2, 4, 4, 2};
+    
 
          //player1 +5 questions
 
