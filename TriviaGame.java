@@ -19,7 +19,7 @@ public class TriviaGame
         System.out.println("Player 1 begin");
 
         Question[] questions = new Question[10];
-        questions[0] = new Question("Who invented gravity?\n", 
+        questions[0] = new Question("Who invented apples?\n", 
         "Thomas Edison", "Anthony Davis", "Isaac Newton", "Thomas Jefferson", 3 );
         questions[1] = new Question("Who is most known for being the first person on the moon?\n", 
          "Frederick Douglass", "Niel Patrick Armstrong", "Roger Williams", "Apollo 11",2 );
